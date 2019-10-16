@@ -17,3 +17,5 @@ And I think to myself what a wonderful world
 Yes I think to myself what a wonderful world
 
 add new text for commit 1
+
+add new text for commit 2
